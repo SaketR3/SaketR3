@@ -2,17 +2,17 @@
 
 
 <h4 align="center">About Me</h4>
-Hi, I'm an aspiring software engineer who wants to use CS for good! I have experience in ML & full-stack web apps. For ML, I have created several models with TensorFlow, including a neural network that predicts whether start-ups will qualify for SBA loans & a CNN that recognizes areas of poverty. For web, I have worked on projects such as a scholarship marketplace that helps students connect with scholarship donors, where I programmed React components & API routes. 
+Hey, I'm an aspiring AI/ML engineer interested in using AI for social impact! From identifying patterns in data to making information more accessible, I believe that AI can has vast potential for social good and scientific applications. 
 <br />
 <br />
-From identifying patterns in data to making information more accessible, I believe that CS can be used to help others and love to use my skills to make a social impact. 
+Whether I'm training a model that recognizes areas of poverty in satellite imagery or integrating a speech-to-text pipeline to help people with dyslexia write, I always strive to ensure my work has a genuine real-world impact. 
 
 
 <h4 align="center">Technical Skills</h4>
 <div align="center">
-<p align="center">ML:</p> 
+<p align="center">AI/ML:</p> 
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-clear?logo=huggingface&logoColor=yellow) ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 <p align="center">Front-End:</p> 
 
