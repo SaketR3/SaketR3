@@ -12,7 +12,7 @@ Whether I'm training a model that recognizes areas of poverty in satellite image
 <div align="center">
 <p align="center">AI/ML:</p> 
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-blue?style=for-the-badge&logo=huggingface&logoColor=yellow) ![LangChain](https://img.shields.io/badge/LANGCHAIN-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-gray?style=for-the-badge&logo=huggingface&logoColor=yellow) ![LangChain](https://img.shields.io/badge/LANGCHAIN-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 <p align="center">Front-End:</p> 
 
