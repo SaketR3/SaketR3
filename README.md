@@ -2,10 +2,10 @@
 
 
 <h4 align="center">About Me</h4>
-Hey, I'm an aspiring AI/ML engineer interested in using AI for social impact! From identifying patterns in data to making information more accessible, I believe that AI can has vast potential for social good and scientific applications. 
+Hey, I'm an aspiring AI researcher interested in AI alignment! As AI systems become more and more powerful, I want to help ensure they remain aligned with human values and empower everyone fairly. To this end, I've worked on research such as using RL to mitigate social biases in LLMs. 
 <br />
 <br />
-Whether I'm training a model that recognizes areas of poverty in satellite imagery or integrating a speech-to-text pipeline to help people with dyslexia write, I always strive to ensure my work has a genuine real-world impact. 
+I'm also interested in using AI for social impact! Whether I'm training a model that recognizes areas of poverty in satellite imagery or integrating a speech-to-text pipeline to help people with dyslexia write, I always strive to ensure my work has real-world social impact. From identifying patterns in data to making information more accessible, I believe that AI has vast potential for social good and scientific applications. 
 
 
 <h4 align="center">Technical Skills</h4>
