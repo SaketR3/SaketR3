@@ -5,14 +5,14 @@
 Hey, I'm an aspiring AI researcher interested in AI alignment! As AI systems become more and more powerful, I want to help ensure they remain aligned with human values and empower everyone fairly. To this end, I've worked on research such as using RL to mitigate social biases in LLMs. 
 <br />
 <br />
-I'm also interested in using AI for social impact! Whether I'm training a model that recognizes areas of poverty in satellite imagery or integrating a speech-to-text pipeline to help people with dyslexia write, I always strive to ensure my work has real-world social impact. From identifying patterns in data to making information more accessible, I believe that AI has vast potential for social good and scientific applications. 
+I'm also interested in using AI for social impact! From identifying patterns in data to making information more accessible, I believe that AI has vast potential for social good and scientific applications. Whether I'm training a model that recognizes areas of poverty in satellite imagery or integrating a speech-to-text pipeline to help people with dyslexia write, I always strive to ensure my work has real-world social impact. 
 
 
 <h4 align="center">Technical Skills</h4>
 <div align="center">
 <p align="center">AI/ML:</p> 
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-black?style=for-the-badge&logo=huggingface&logoColor=yellow) ![LangChain](https://img.shields.io/badge/LANGCHAIN-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-black?style=for-the-badge&logo=huggingface&logoColor=yellow) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LANGCHAIN-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 <p align="center">Web Dev:</p> 
 
